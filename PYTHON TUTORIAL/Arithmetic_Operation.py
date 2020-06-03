@@ -8,7 +8,7 @@ int(z)
 type(z)
 z = int(z)
 type(z)
-l = z**2
+l = z**3
 print (l)
 type(l)
 m = float(l)
